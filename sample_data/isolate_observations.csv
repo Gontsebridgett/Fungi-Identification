@@ -1,0 +1,6 @@
+isolate_id,colour,texture,growth_rate,spore_structure
+Isolate_1,green,powdery,fast,radiating_head
+Isolate_2,white,cottony,very_fast,sporangia
+Isolate_3,cream,smooth,fast,budding_yeast
+Isolate_4,blue_green,velvety,moderate,penicillus
+Isolate_5,white,cottony,slow,microconidia
